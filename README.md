@@ -1,7 +1,7 @@
 # CCG
 
 ## Overview
-![image](https://github.com/Double1203/CCG/blob/main/figure/CCG_framework.png)
+![image](https://github.com/NLPWM-WHU/CCG/blob/main/figure/CCG_framework.png)
 
 ## Setup
 
